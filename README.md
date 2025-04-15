@@ -5,7 +5,7 @@
   - Old user five
   - Old user minus three
     
-  Take your pick .
+  Take your pick.
 <!--
 **OldUser101/OldUser101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
