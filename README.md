@@ -1,6 +1,6 @@
 # Hi, I'm Nathan 👋
 
-I'm a student passionate about software development in systems programming and web development.
+I'm a student passionate about software development across systems programming and web development.
 
 ## 🔧 Skills
 
