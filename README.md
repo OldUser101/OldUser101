@@ -7,7 +7,6 @@ I'm a student passionate about software development across systems programming a
 - Languages: C/C++, C#, TypeScript, Python
 - Web: Next.js, React, HTML/CSS
 - Platforms: Linux (Debian, Red Hat), Windows
-- Tools: Git, GCC, Node.js, Vercel
 
 ## 📂 Projects
 
