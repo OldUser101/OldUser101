@@ -13,7 +13,7 @@ I'm a student passionate about software development across systems programming a
 
 - [nathanjgill](https://github.com/OldUser101/nathanjgill): My website, built with Next.js and TypeScript
 - [HybridApp](https://github.com/OldUser101/HybridApp): A Windows application for managing desktop style web apps, written in C# with WinUI3
-- [tars](https://github.com/OldUser101/tars): A configurable, modular build system, written in Python
+- [tlockr](https://github.com/OldUser101/tlockr): A highly customisable screen locker for Wayland compositors
 - [IELaunch](https://github.com/OldUser101/IELaunch): A launcher for Internet Explorer for legacy applications
 
 ## 📫 Contact
