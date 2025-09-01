@@ -1,6 +1,6 @@
 # Hi, I'm Nathan 👋
 
-I'm a student interested in software development across systems programming and web development.
+I'm a student interested in software engineering across systems programming and web development.
 
 ## 🔧 Skills
 
