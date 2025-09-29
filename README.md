@@ -4,9 +4,9 @@ I'm a student interested in software engineering across systems programming and 
 
 ## 🔧 Skills
 
-- Languages: C/C++, C#, TypeScript, Python
+- Languages: C/C++, Rust, TypeScript, Python
 - Web: Next.js, React, HTML/CSS
-- Platforms: Linux (Debian, Red Hat), Windows
+- Platforms: Linux, Windows
 
 ## 📂 Projects
 
