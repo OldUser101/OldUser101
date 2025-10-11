@@ -10,7 +10,7 @@ I'm a student interested in software engineering across systems programming and 
 
 ## 📂 Projects
 
-- [tlockr](https://github.com/OldUser101/tlockr): A highly customisable screen locker for Wayland compositors
+- [tlockr](https://github.com/OldUser101/tlockr): A highly customisable screen locker for wlroots-based compositors
 - [nathanjgill](https://github.com/OldUser101/nathanjgill): My website, built with Next.js and TypeScript
 - [HybridApp](https://github.com/OldUser101/HybridApp): A Windows application for managing desktop style web apps, written in C# with WinUI3
 - [IELaunch](https://github.com/OldUser101/IELaunch): A launcher for Internet Explorer for legacy applications
