@@ -11,7 +11,7 @@ I'm a student interested in software engineering across systems programming and 
 ## 📂 Projects
 
 - [tlockr](https://github.com/OldUser101/tlockr): A highly customisable screen locker for wlroots-based compositors
-- [nathanjgill](https://github.com/OldUser101/nathanjgill): My website, built with Next.js and TypeScript
+- [nathanjgill.uk](https://github.com/OldUser101/nathanjgill.uk): The second iteration of my website, built with my static site generator [tars](https://github.com/OldUser101/tars)
 - [HybridApp](https://github.com/OldUser101/HybridApp): A Windows application for managing desktop style web apps, written in C# with WinUI3
 - [IELaunch](https://github.com/OldUser101/IELaunch): A launcher for Internet Explorer for legacy applications
 
