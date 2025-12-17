@@ -16,8 +16,9 @@ A couple of things I'm working on that one might be interested in:
 
 ***
 
-- I help with RoboCon, a robotics competition for GCSE students in the UK.
-    Check out [@systemetric](https://github.com/systemetric)!
+- I help with [RoboCon](https://robocon.uk), a robotics competition for GCSE
+    students in the UK. Check out
+    [@systemetric](https://github.com/systemetric)!
 
 - You can pronounce my username in a few ways, namely:
   - "Old user one-oh-one"
