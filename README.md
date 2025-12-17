@@ -1,31 +1,23 @@
-# Hi, I'm Nathan 👋
+I'm a student interested in software engineering across systems programming
+and web development.
 
-I'm a student interested in software engineering across systems programming and web development.
+***
 
-## 🔧 Skills
+A couple of things I'm working on that one might be interested in:
 
-- Languages: C/C++, Rust, TypeScript, Python
-- Web: Next.js, React, HTML/CSS
-- Platforms: Linux, Windows
+- [nlock](https://github.com/OldUser101/nlock): A customisable, minimalist
+    Wayland screen locker
+- [nathanjgill.uk](https://github.com/OldUser101/nathanjgill.uk): The third
+    iteration of my website, built with ...
+- [tars](https://github.com/OldUser101/tars): A fast and simple static site
+    generator in Rust
 
-## 📂 Projects
+***
 
-- [nlock](https://github.com/OldUser101/nlock): A customisable, minimalist Wayland screen locker
-- [nathanjgill.uk](https://github.com/OldUser101/nathanjgill.uk): The third iteration of my website, built with my static site generator [tars](https://github.com/OldUser101/tars)
-- [HybridApp](https://github.com/OldUser101/HybridApp): A Windows application for managing desktop style web apps, written in C# with WinUI3
-- [IELaunch](https://github.com/OldUser101/IELaunch): A launcher for Internet Explorer for legacy applications
+- I help with RoboCon, a robotics competition for GCSE students in the UK.
+    Check out [@systemetric](https://github.com/systemetric)!
 
-## 📫 Contact
-
-- Website: [nathanjgill.uk](https://nathanjgill.uk)
-- Email: [nathan@nathanjgill.uk](mailto:nathan@nathanjgill.uk)
-- LinkedIn: [Nathan Gill](https://www.linkedin.com/in/nathan-gill-olduser101)
-
-## 🧩 Other Things
-
-- 🤖 I help run [RoboCon](https://robocon.uk), a robotics competition aimed at GCSE students in the UK. Check out the [systemetric](https://github.com/systemetric) organisation!
-
-- ⚡ You can pronounce my username in a few ways, namely:
+- You can pronounce my username in a few ways, namely:
   - "Old user one-oh-one"
   - "Old user five"
   - "Old user minus three"
