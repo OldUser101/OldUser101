@@ -9,7 +9,7 @@ A couple of things I'm working on that one might be interested in:
 
 - [nlock](https://github.com/OldUser101/nlock): A customisable, minimalist
     Wayland screen locker
-- [nathanjgill.uk](https://github.com/OldUser101/nathanjgill.uk): The third
+- [personal-site](https://github.com/OldUser101/personal-site): The third
     iteration of my website, built with ...
 - [tars](https://github.com/OldUser101/tars): A fast and simple static site
     generator in Rust
