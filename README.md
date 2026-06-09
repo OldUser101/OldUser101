@@ -3,7 +3,7 @@
 I'm a student interested in software engineering across systems programming
 and web development.
 
-**NOTE**: Most projects are now permanently hosted at [git.ngill.net](https://git.ngill.net/cgit),
+**NOTE**: Some projects are now hosted at [git.ngill.net](https://git.ngill.net/cgit),
     notable ones are mirrored here.
 
 ***
