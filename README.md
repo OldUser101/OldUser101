@@ -1,7 +1,6 @@
 # Hi, I'm Nathan 👋
 
-I'm a student interested in software engineering across systems programming
-and web development.
+I'm a hobbyist programmer in the UK mainly interested in systems programming.
 
 **NOTE**: Some projects are now hosted at [git.ngill.net](https://git.ngill.net/cgit),
     notable ones are mirrored here.
