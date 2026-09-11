@@ -2,7 +2,7 @@
 
 I'm a hobbyist programmer in the UK mainly interested in systems programming.
 
-**NOTE**: Some projects are now hosted at [git.ngill.net](https://git.ngill.net/cgit),
+**NOTE**: Most projects are now hosted at [git.ngill.net](https://git.ngill.net/cgit),
     notable ones are mirrored here.
 
 ***
